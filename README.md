@@ -1,0 +1,1 @@
+This Android app tracks faces in real-time using the device's camera, alerting if no face is detected for a while. It's handy for exam monitoring. We've used Google's ML Kit for the face detection part, making it easy to integrate and use. It's a straightforward solution for keeping an eye on things during exams on Android devices.
